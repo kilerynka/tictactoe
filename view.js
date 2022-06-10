@@ -1,4 +1,4 @@
-import { convertsCordsToString, getCordsFromString } from './utilitis.js';
+import { convertsCordsToString, getCordsFromString } from './utilis.js';
 
 class View {
   fields = document.querySelectorAll('.field');
